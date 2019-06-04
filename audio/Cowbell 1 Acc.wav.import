@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Cowbell 1 Acc.wav-b51150226259b54555cc9a6a64bc2a96.sample"
+
+[deps]
+
+source_file="res://audio/Cowbell 1 Acc.wav"
+dest_files=[ "res://.import/Cowbell 1 Acc.wav-b51150226259b54555cc9a6a64bc2a96.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
